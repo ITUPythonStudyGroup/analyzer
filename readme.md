@@ -11,3 +11,4 @@ The idea is that each questions will get it's often folder relative to the root 
 3. Which categories are the most used (make a bar chart)?
 4. Which categories have the highest success rate?
 5. Can a general model be constructed for how funding progresses in the case of a typical Kickstarter campaign?
+6. What is the geographical distribution of projects created in relation to funding received?
